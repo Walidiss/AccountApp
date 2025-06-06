@@ -8,6 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Presentation\Services\**" />
+    <EmbeddedResource Remove="Presentation\Services\**" />
+    <None Remove="Presentation\Services\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="account_20230228.csv" />
   </ItemGroup>
 
@@ -15,10 +21,6 @@
     <Content Include="account_20230228.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Presentation\Services\" />
   </ItemGroup>
 
   <ItemGroup>

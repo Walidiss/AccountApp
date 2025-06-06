@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccountApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05182074b50a4037fc42bc19b2c51a220282e22e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccountApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccountApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

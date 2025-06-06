@@ -17,3 +17,4 @@ C:\Users\HP\Documents\Repos\AccountApp\AccountApp\obj\Debug\net9.0\AccountApp.pd
 C:\Users\HP\Documents\Repos\AccountApp\AccountApp\obj\Debug\net9.0\AccountApp.genruntimeconfig.cache
 C:\Users\HP\Documents\Repos\AccountApp\AccountApp\obj\Debug\net9.0\ref\AccountApp.dll
 C:\Users\HP\Documents\Repos\AccountApp\AccountApp\bin\Debug\net9.0\account_20230228.csv
+C:\Users\HP\Documents\Repos\AccountApp\AccountApp\obj\Debug\net9.0\AccountApp.sourcelink.json
